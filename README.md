@@ -3,8 +3,8 @@
 - Instance type: t2.medium
 - Security Group (Open): 8080, 9100 and 22 to 0.0.0.0/0
 - Key pair: Select or create a new keypair
-- User data (Copy the following user data) from [here](https://github.com/anselmenumbisia/jjtech-ci-cd-pipeline-project-k8s/blob/main/installation-scripts/jenkins-ansible-git-terraform-docker.sh) 
-   v
+- User data (Copy the following user data) from [here](https://github.com/anselmenumbisia/jjtech-maven-sonarqube-nexus-prometheus-project/blob/main/installations/jenkins-install.sh) 
+
 - Launch Instance   
   ### Access Jenkins
 - Copy your Jenkins Public IP Address and paste on the browser = ExternalIP:8080
